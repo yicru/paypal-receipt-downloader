@@ -1,3 +1,9 @@
 .idea
 
+pdfs
+tmp
+
+.env*
+!.env.example
+
 node_modules/
